@@ -10,7 +10,7 @@ _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: ttps://julijajarmale.github.io/13-Canon/
+Site published at: https://julijajarmale.github.io/13-Canon/
 
 Design: CANON pinterest
 ## Project features
