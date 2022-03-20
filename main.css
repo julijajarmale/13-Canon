@@ -85,13 +85,38 @@ main > div{
 }
 
 h1{
-
+    margin-bottom: 10px;
+    font-weight: normal;
 }
 h2{
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 40px;
 
 }
 p{
+    margin-bottom: 10px;
+    font-weight: normal;
+    color: grey;
+    margin-top: 5px;
 
 }
 
-main > div > a{}
+span{
+    margin-bottom: 30px;
+}
+
+  div > div > a{
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        background-color: black;
+        text-decoration: none;
+        border-radius: 5px;
+        color: white;
+        margin-bottom: 10px;
+    
+}
+
+
+    
