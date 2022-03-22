@@ -16,18 +16,17 @@ main{
     width: 1200px;
     display: inline-block;
 }
-header > img{
+.logo{
     float:left;
     height: 44px;
     margin-top: 5px;
 }
 
-header > nav{
-float: left;
-
+.headernavigation{
+float:left;
 }
 
-nav > a{
+.headerlink{
     display: inline-block;
     font-size: 13px;
     line-height: 44px;
@@ -35,6 +34,7 @@ nav > a{
     text-decoration: none;
     color: rgb(43,40,61);
     padding-bottom: 5px;
+    margin-top: 12pxs;
 
 }
 nav > a:hover{
@@ -45,18 +45,18 @@ nav > a:first-child{
    font-weight: bold;
 }
 
-header > input{
+.search{
     width: 20%;
     float: left;
     margin-left: 60px;
     margin-top: 10px;
     margin-right: 20px;
 }
-header > div{
+.account-cart{
     float:right;
 
 }
-div > a{
+.cartlink{
     display: inline-block;
     font-size: 14px;
     line-height: 44px;
@@ -65,19 +65,19 @@ div > a{
     color: rgb(43,40,61);
     padding-bottom: 5px;
 }
-div > a > img{
+.cartimage{
     margin-top: 10px;
 }
 
-div > a:hover{
+a:hover{
     border-bottom: 1px solid rgb(43,40,61);
 }
 
-main > img{
+.mainimage{
  width: 50%;
  margin-top: 30px;
 }
-main > div{
+.maintext{
  width: 40%;
  float: right;
  margin-left: 10px;
@@ -101,12 +101,10 @@ p{
     margin-top: 5px;
 
 }
-
 span{
     margin-bottom: 30px;
 }
-
-  div > div > a{
+ .mainlink{
         padding: 10px;
         padding-left: 30px;
         padding-right: 30px;
@@ -118,5 +116,9 @@ span{
     
 }
 
-
+.lastparagraph{
+    font-weight: normal;
+    color: grey;
+    margin-top: 25px;
+}
     
